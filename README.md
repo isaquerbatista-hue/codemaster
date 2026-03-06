@@ -6,3 +6,5 @@ o menu mobile não abre e o formulário recarrega a página...
 ○ [X] 3. Formulário com API
 ○ [X] 4. Animação de Scroll
 ○ [X] 5. Alternar modo Claro/Escuro
+○ [X] 6. Animações da Seção
+○ [X] 7. Botão Voltar ao Topo
