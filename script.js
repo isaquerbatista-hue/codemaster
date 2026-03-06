@@ -282,3 +282,4 @@ window.addEventListener('scroll', checkAboutVisibility);
 
 // Verifica a visibilidade ao carregar a página (caso a seção já esteja visível)
 checkAboutVisibility();
+
