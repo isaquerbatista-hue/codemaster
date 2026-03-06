@@ -8,3 +8,4 @@ o menu mobile não abre e o formulário recarrega a página...
 ○ [X] 5. Alternar modo Claro/Escuro
 ○ [X] 6. Animações da Seção
 ○ [X] 7. Botão Voltar ao Topo
+○ [X] 8. Carrossel de Projetos
