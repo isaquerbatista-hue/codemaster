@@ -29,3 +29,16 @@ window.addEventListener('scroll', () => {
         document.body.style.overflow = 'auto';
     }
 });
+
+// ================= NAVGAÇÃO ATIVA =================
+// Seleciona todos os links de navegação
+const navLinks = document.querySelectorAll('.navlist a');
+
+// Função para adicionar a classe "active" ao link clicado
+function activeLink() {
+    navLinks.forEach(item => item.classList.remove('active')); // Remove a classe "active" de todos os links
+    this.classList.add('active'); // Adiciona a classe "active" ao link clicado
+}
+
+// Adiciona um evento de clique a cada link de navegação
+navLinks.forEach(item => item.addEventListener('click', activeLink));
